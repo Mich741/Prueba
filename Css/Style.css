@@ -2565,6 +2565,13 @@ body:not(.responsive) ._1gF1C {
   font-size: 155px !important;
 }
 
+.ssss{
+  letter-spacing: normal; 
+  display: none; 
+  color: red; font-family: poppins-extralight, poppins, sans-serif;
+   margin-left: 123px !important;
+}
+
 #comp-l9yo9nbr {
   --contentPaddingLeft: 0px;
   --contentPaddingRight: 0px;
