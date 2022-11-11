@@ -111,11 +111,11 @@ body {
 }
 #site-root {
   top: var(--wix-ads-top-height);
-  min-height: 100%;
+  min-height: 50%;
   margin: 0 auto;
 }
 body:not(.responsive) #site-root {
-  width: 100%;
+  width: 50%;
   min-width: var(--site-width);
 }
 #SITE_CONTAINER {
@@ -1538,7 +1538,7 @@ body:not(.responsive) ._1gF1C {
   height: 55px;
 }
 #comp-l2tjtz9l {
-  width: 375px;
+  width: 223px;
   height: 55px;
 }
 #mainPage {
@@ -2122,10 +2122,10 @@ body:not(.responsive) ._1gF1C {
       format("eot"),
     url(//static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/5b4a262e-3342-44e2-8ad7-719998a68134.woff)
       format("woff"),
-    url(//static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/4a3ef5d8-cfd9-4b96-bd67-90215512f1e5.ttf)
+    url(//static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/4a3ef5d8-cfd9-4b96-bd67-90215512f1e5.ttf) 
       format("truetype"),
     url(//static.parastorage.com/services/third-party/fonts/Helvetica/Fonts/58ab5075-53ea-46e6-9783-cbb335665f88.svg#58ab5075-53ea-46e6-9783-cbb335665f88)
-      format("svg");
+      format("svg"); 
 }
 @font-face {
   font-display: swap;
@@ -2155,8 +2155,8 @@ body:not(.responsive) ._1gF1C {
   }
 
   #WPht5-1dea {
-    width: 205px;
-    height: 430px;
+    width: 102px;
+    height: 209px;
   }
 
   #comp-l1wt4mjs {
@@ -2168,6 +2168,7 @@ body:not(.responsive) ._1gF1C {
     width: 498px;
     height: 109px;
   }
+
   #comp-l9yob287 {
     width: 161px;
     height: 35px;
@@ -2242,7 +2243,7 @@ body:not(.responsive) ._1gF1C {
 }
 
 #comp-l2tja7gg1 {
-  width: 439px;
+  width: 366px;
   height: 55px;
 }
 
@@ -2258,7 +2259,7 @@ body:not(.responsive) ._1gF1C {
 }
 
 #comp-l2tja7h0 {
-  width: 439px;
+  width: 366px;
   height: 55px;
 }
 
@@ -2272,7 +2273,7 @@ body:not(.responsive) ._1gF1C {
 }
 
 #comp-l9yn9qe9 {
-  width: 439px;
+  width: 366px;
   height: 55px;
 }
 
