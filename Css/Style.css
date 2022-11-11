@@ -2483,7 +2483,7 @@ body:not(.responsive) ._1gF1C {
 [data-mesh-id="SITE_FOOTERinlineContent-gridContainer"] > [id="comp-l1wtl3s3"] {
   position: relative;
   margin: 7px 0px 0px calc((100% - 980px) * 0.5);
-  left: -259px;
+  left: 126px;
   grid-area: 1 / 1 / 2 / 2;
   justify-self: center;
   align-self: center;
@@ -2492,7 +2492,7 @@ body:not(.responsive) ._1gF1C {
 [data-mesh-id="SITE_FOOTERinlineContent-gridContainer"] > [id="comp-l1wtdsnq"] {
   position: relative;
   margin: 18px 0px 24px calc((100% - 980px) * 0.5);
-  left: -257px;
+  left: 125px;
   grid-area: 2 / 1 / 2 / 2;
   justify-self: center;
   align-self: center;
@@ -2503,7 +2503,7 @@ body:not(.responsive) ._1gF1C {
   position: relative;
   margin: 33px 0px 25px calc((100% - 980px) * 0.5);
   grid-area: 3;
-  left: -265px;
+  left: 109px;
   justify-self: center;
   align-self: center;
   margin-top: -8px;
