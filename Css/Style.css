@@ -2165,7 +2165,7 @@ body:not(.responsive) ._1gF1C {
   }
 
   .arreglo{
-    font-size: 25px !important;
+    font-size: 21px !important;
     font-family:poppins-semibold,poppins,sans-serif;
     
   }
@@ -2532,8 +2532,7 @@ body:not(.responsive) ._1gF1C {
   left: 0;
   margin-left: 0;
   width: 100%;
-  min-width: px;
-  height: 498px;
+  height: 375px;
 }
 
 #comp-l9ynhtoe {
@@ -2558,7 +2557,7 @@ body:not(.responsive) ._1gF1C {
   justify-self: start;
   align-self: start;
   margin-top: -83;
-  top: 353px;
+  top: 230px;
 
 }
 
@@ -2613,7 +2612,7 @@ body:not(.responsive) ._1gF1C {
   justify-self: start;
   align-self: start;
   margin-top: 94px;
-  top: 60px;
+  top: 82px;
 }
 
 [data-mesh-id="ContainermainPageinlineContent-gridContainer"]
